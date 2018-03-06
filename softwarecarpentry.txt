@@ -6,16 +6,16 @@ o It does auto saves
 - Markdown: light html, an easier looking language for 
 - Shift + Enter runs a line
 - Variables
-o Utför uträkningar
+o UtfÃ¶r utrÃ¤kningar
 o If you run a line a command has been stored in your computer
 o print ( )
-o print ( ‘ ‘) single quotations marks
+o print ( â€˜ â€˜) single quotations marks
 o strings good at handling texts (better in in the humanities)
 o Python good at handling strings
 o A comma separates commands, Python 
 o The whole line is a statement (a full elaboration)
 o An argument: within the single quotations marks
-o If you change one variable doesn’t effect other variables
+o If you change one variable doesnâ€™t effect other variables
 o # makes comments
 o %whos you get the variables that you have used
 - 0:4 # the rows up until 4, 4 is not included
@@ -23,3 +23,4 @@ o %whos you get the variables that you have used
 - You assign a variable by using the equal sign
 - Hej hej blab la bla
 blabla
+zkfjÃ¶df
