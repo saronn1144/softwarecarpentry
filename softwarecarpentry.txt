@@ -1,0 +1,25 @@
+Anteckningar
+Software Carpentry Workshop 6/3/2018
+- The Jupyter notebook allows to keep track of what you do
+o Save the entire script and make updates to it
+o It does auto saves
+- Markdown: light html, an easier looking language for 
+- Shift + Enter runs a line
+- Variables
+o Utför uträkningar
+o If you run a line a command has been stored in your computer
+o print ( )
+o print ( ‘ ‘) single quotations marks
+o strings good at handling texts (better in in the humanities)
+o Python good at handling strings
+o A comma separates commands, Python 
+o The whole line is a statement (a full elaboration)
+o An argument: within the single quotations marks
+o If you change one variable doesn’t effect other variables
+o # makes comments
+o %whos you get the variables that you have used
+- 0:4 # the rows up until 4, 4 is not included
+- Anaconda has the most libraries installed
+- You assign a variable by using the equal sign
+- Hej hej blab la bla
+blabla
